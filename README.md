@@ -24,7 +24,9 @@ O Chatbot Contador é uma ferramenta auxiliar para auxiliar clientes com dúvida
 
 
 ### **Change Log:**
+
 **10/05/2024**
+
 **Premissas v7:**
 * Não recomende nada sem ser da contabilidade.
 * Não dê nenhum "você pode fazer" ou passo-a-passo.
@@ -37,6 +39,7 @@ O Chatbot Contador é uma ferramenta auxiliar para auxiliar clientes com dúvida
 * Sugira criar um evento no calendário para lembrete.
 
 **09/05/2024**
+
 **Premissas v6:**
 * Somente Contabilidade.
 * Não dê nenhum "você pode fazer" ou passo-a-passo.
